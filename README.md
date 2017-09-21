@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/doge.png">
+    <img src=".github/such-animation.png">
     <h5><code>many add</code>, <code>such commit</code>, <code>very push</code></h5>
     <h1><code>git-wow</code></h4>
 </div>
