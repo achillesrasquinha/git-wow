@@ -4,8 +4,6 @@
     <h1><code>git-wow</code></h4>
 </div>
 
-
-
 ### many features
 ```console
 $ many add .
