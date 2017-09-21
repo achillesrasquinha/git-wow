@@ -24,7 +24,7 @@ $ curl -s http://tiny.cc/git-wow >> ~/.bashrc
 Yes, yes it is.
 
 #### Q. "One word, why?"
-We're a meme-driven world.
+We're a meme-driven world. Thanks [Chris](https://twitter.com/chris__martin/status/420992421673988096)!
 
 ### what license
 This repository has been released under the [WTF Public License](LICENSE).
