@@ -4,8 +4,9 @@
     <h1><code>git-wow</code></h4>
 </div>
 
-
-
+<div align="center">
+    <img src=".github/much.gif">
+</div>
 
 ### many features
 ```console
