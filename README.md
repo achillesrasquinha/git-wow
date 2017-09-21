@@ -17,10 +17,10 @@ $ very push
 $ wow
 ```
 
-### "Shut up and take my money!"
+### very install
 Add to your `~/.bashrc` profile.
 ```console
-$ curl -s http://tiny.cc/git-wow >> ~/.bashrc
+$ curl -s http://tiny.cc/git-wow >> ~/.bashrc && source ~/.bashrc
 ```
 
 ### much faq
